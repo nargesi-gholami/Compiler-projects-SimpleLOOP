@@ -1,0 +1,9 @@
+Line 1: Program
+Line 1: ClassDeclaration_Main
+Line 1: Identifier_Main
+Line 2: MethodDeclaration_a
+Line 2: Identifier_a
+Line 3: ReturnStmt
+Line 3: SetInclude
+Line 3: Identifier_set
+Line 3: IntValue_12
